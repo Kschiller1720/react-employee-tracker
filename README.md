@@ -13,3 +13,11 @@ Given a table of random users, when the user loads the page, a table of employee
 The user should be able to:
 -Sort the table by at least one category
 -Filter the users by at least one property
+
+Instructions:
+Download zip or clone file to local directory
+npm install
+npm start
+
+Application should open up on port 3000
+If not open browser and go to localhost:3000
