@@ -16,8 +16,11 @@ The user should be able to:
 
 Instructions:
 Download zip or clone file to local directory
+
 npm install
+
 npm start
 
 Application should open up on port 3000
+
 If not open browser and go to localhost:3000
